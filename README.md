@@ -1,6 +1,5 @@
 # Structure is Supervision: Multiview Masked Autoencoders for Radiology
 
-Codebase of the paper **under review at TMLR (2025)**.
 
 This repository contains the implementation of **Multiview Masked Autoencoder (MVMAE)** and **MVMAE-V2T**, self-supervised frameworks for representation learning from structured medical imaging data, together with the studied baselines.  
 
@@ -43,7 +42,3 @@ python main_mm_mae.py ++offline_eval.do_offline_eval=True ++training.do_pretrain
 ```
 
 ![Offline Evaluation](figures/OFFLINE_EVAL.png)
-
----
-
-PLEASE DO NOT DISTRIBUTE
