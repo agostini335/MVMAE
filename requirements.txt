@@ -1,0 +1,13 @@
+lightning==2.1.3
+transformers==4.37.2
+hydra-core
+timm
+scikit-learn
+numpy
+pandas
+matplotlib
+wandb
+pydicom==3.0.1
+tqdm==4.67.1
+opencv-contrib-python==4.11.0.86
+open-clip-torch

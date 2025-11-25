@@ -1,0 +1,434 @@
+padchest_label,mimic_label,reasoning
+"","No Finding",Empty label
+" respiratory distress","No Finding",Clinical symptom not pathological finding
+" pacemaker",Support Devices,Cardiac device
+" major fissure thickening",Pleural Other,Pleural/fissural abnormality
+" mediastinic lipomatosis","No Finding",Benign anatomical variant
+"reservoir central venous catheter",Support Devices,Vascular access device
+" subcutaneous emphysema",Pneumothorax,Air in soft tissues related to pneumothorax
+" rib fracture",Fracture,Bone fracture
+"central venous catheter via jugular vein",Support Devices,Vascular access device
+" end on vessel","No Finding",Normal vascular visualization
+" pneumonia",Pneumonia,Lung infection
+"osteoporosis","No Finding",Bone density condition
+" miliary opacities",Lung Opacity,Multiple small opacities
+" humeral fracture",Fracture,Bone fracture
+" sternotomy",Support Devices,Surgical procedure/hardware
+"multiple nodules",Lung Lesion,Multiple lung masses
+"cavitation",Lung Lesion,Lung tissue destruction
+" scoliosis","No Finding",Spinal deformity
+"clavicle fracture",Fracture,Bone fracture
+" artificial mitral heart valve",Support Devices,Cardiac prosthesis
+" cardiomegaly",Cardiomegaly,Enlarged heart
+" interstitial pattern",Lung Opacity,Lung parenchymal pattern
+"vertebral compression",Fracture,Spinal fracture
+" azygoesophageal recess shift",Enlarged Cardiomediastinum,Mediastinal shift
+" endotracheal tube",Support Devices,Airway device
+" surgery neck",Support Devices,Surgical changes
+"single chamber device",Support Devices,Cardiac device
+"loculated fissural effusion",Pleural Effusion,Pleural fluid collection
+" central venous catheter via jugular vein",Support Devices,Vascular access device
+"pulmonary fibrosis",Lung Lesion,Lung scarring
+" fissure thickening",Pleural Other,Pleural abnormality
+"atypical pneumonia",Pneumonia,Lung infection
+"vertebral fracture",Fracture,Bone fracture
+"mediastinal shift",Enlarged Cardiomediastinum,Mediastinal displacement
+"aortic endoprosthesis",Support Devices,Vascular prosthesis
+"total atelectasis",Atelectasis,Complete lung collapse
+"sclerotic bone lesion",Lung Lesion,Bone abnormality with possible metastasis
+" diaphragmatic eventration","No Finding",Diaphragmatic abnormality
+" thoracic cage deformation","No Finding",Chest wall deformity
+" central venous catheter",Support Devices,Vascular access device
+"pulmonary edema",Edema,Lung fluid accumulation
+" tracheostomy tube",Support Devices,Airway device
+" granuloma",Lung Lesion,Inflammatory lung nodule
+"bullas",Lung Opacity,Emphysematous changes visible as lung opacities
+"nodule",Lung Lesion,Lung mass
+"round atelectasis",Atelectasis,Specific type of collapse
+" mass",Lung Lesion,Lung mass
+"calcified granuloma",Lung Lesion,Calcified inflammatory nodule
+"mastectomy",Support Devices,Surgical changes
+" lepidic adenocarcinoma",Lung Lesion,Lung cancer
+"osteopenia","No Finding",Bone density condition
+"prosthesis",Support Devices,Medical prosthesis
+" pulmonary mass",Lung Lesion,Lung mass
+" pneumoperitoneo",Pneumothorax,Air in peritoneum
+"blastic bone lesion",Lung Lesion,Bone abnormality with possible metastasis
+" vertebral degenerative changes","No Finding",Degenerative changes
+"laminar atelectasis",Atelectasis,Type of lung collapse
+" gastrostomy tube",Support Devices,Feeding device
+"sternotomy",Support Devices,Surgical procedure
+"pulmonary artery hypertension","No Finding",Pulmonary vascular disease
+" descendent aortic elongation",Enlarged Cardiomediastinum,Aortic enlargement
+" heart valve calcified","No Finding",Valve calcification
+"surgery lung",Support Devices,Surgical changes
+"double J stent",Support Devices,Urological device
+"vertebral anterior compression",Fracture,Spinal fracture
+"aortic atheromatosis","No Finding",Aortic disease
+"tuberculosis sequelae",Lung Lesion,Post-infectious changes
+"cardiomegaly",Cardiomegaly,Enlarged heart
+" artificial aortic heart valve",Support Devices,Cardiac prosthesis
+" infiltrates",Consolidation,Lung inflammation
+" suboptimal study","No Finding",Technical quality issue
+"supra aortic elongation",Enlarged Cardiomediastinum,Aortic enlargement
+" pulmonary hypertension","No Finding",Pulmonary vascular disease
+" reticulonodular interstitial pattern",Lung Opacity,Lung parenchymal pattern
+"lytic bone lesion",Lung Lesion,Bone abnormality with possible metastasis
+" kerley lines","No Finding",Pulmonary vascular congestion
+" clavicle fracture",Fracture,Bone fracture
+"miliary opacities",Lung Opacity,Multiple small opacities
+"ground glass pattern",Lung Opacity,Lung parenchymal pattern
+" lobar atelectasis",Atelectasis,Lung collapse
+" vertebral compression",Fracture,Spinal fracture
+" apical pleural thickening",Pleural Other,Pleural abnormality
+"pericardial effusion",Pleural Effusion,Fluid around heart
+" goiter","No Finding",Thyroid enlargement
+"air trapping",Lung Opacity,Air retention with visible parenchymal changes
+"dextrocardia","No Finding",Cardiac anatomical variant
+"pneumothorax",Pneumothorax,Air in pleural space
+" pulmonary edema",Edema,Lung fluid accumulation
+"central venous catheter via subclavian vein",Support Devices,Vascular access device
+" pleural thickening",Pleural Other,Pleural abnormality
+"fracture",Fracture,Bone fracture
+"respiratory distress","No Finding",Clinical symptom
+"humeral prosthesis",Support Devices,Orthopedic prosthesis
+"pneumomediastinum",Pneumothorax,Air in mediastinum
+"abscess",Lung Lesion,Infectious collection
+"lipomatosis","No Finding",Fatty tissue accumulation
+"artificial aortic heart valve",Support Devices,Cardiac prosthesis
+" costophrenic angle blunting",Pleural Effusion,Pleural space blunting commonly indicating fluid
+"hemidiaphragm elevation","No Finding",Diaphragmatic elevation
+" hydropneumothorax",Pleural Effusion,Fluid and air in pleura
+"nephrostomy tube",Support Devices,Urological device
+"goiter","No Finding",Thyroid enlargement
+"external foreign body",Support Devices,Foreign object
+"empyema",Lung Lesion,Pleural infection
+" tracheal shift","No Finding",Tracheal displacement
+"tracheal shift","No Finding",Tracheal displacement
+"lung metastasis",Lung Lesion,Secondary cancer
+"mass",Lung Lesion,Lung mass
+" superior mediastinal enlargement",Enlarged Cardiomediastinum,Mediastinal enlargement
+"calcified pleural thickening",Pleural Other,Pleural abnormality
+" unchanged","No Finding",Comparison finding
+"artificial mitral heart valve",Support Devices,Cardiac prosthesis
+"flattened diaphragm","No Finding",Diaphragmatic flattening
+" pulmonary fibrosis",Lung Lesion,Lung scarring
+"subacromial space narrowing","No Finding",Joint space narrowing
+" vertebral anterior compression",Fracture,Spinal fracture
+" surgery humeral",Support Devices,Surgical changes
+" nipple shadow","No Finding",Normal anatomical shadow
+"vascular redistribution","No Finding",Vascular pattern change
+" pulmonary artery enlargement",Enlarged Cardiomediastinum,Vascular enlargement
+"surgery humeral",Support Devices,Surgical changes
+" central venous catheter via subclavian vein",Support Devices,Vascular access device
+"mediastinic lipomatosis","No Finding",Fatty tissue in mediastinum
+"pseudonodule",Lung Lesion,Apparent nodule
+"chest drain tube",Support Devices,Thoracic drainage device
+"calcified densities",Lung Lesion,Calcified structures
+"suboptimal study","No Finding",Technical quality issue
+"consolidation",Consolidation,Lung consolidation
+"artificial heart valve",Support Devices,Cardiac prosthesis
+"alveolar pattern",Lung Opacity,Lung parenchymal pattern
+" external foreign body",Support Devices,Foreign object
+" tuberculosis",Lung Lesion,Infectious disease
+" sclerotic bone lesion",Lung Lesion,Bone abnormality
+"volume loss",Lung Opacity,Lung volume reduction with visible parenchymal changes
+"lobar atelectasis",Atelectasis,Lung collapse
+" reservoir central venous catheter",Support Devices,Vascular access device
+"unchanged","No Finding",Comparison finding
+"calcified pleural plaques",Pleural Other,Pleural abnormality
+"pleural effusion",Pleural Effusion,Pleural fluid
+" pleural plaques",Pleural Other,Pleural abnormality
+" hilar enlargement",Enlarged Cardiomediastinum,Hilar enlargement
+" surgery breast",Support Devices,Surgical changes
+"aortic aneurysm",Enlarged Cardiomediastinum,Aortic dilatation enlarging mediastinum
+" mammary prosthesis",Support Devices,Breast prosthesis
+" loculated fissural effusion",Pleural Effusion,Pleural fluid collection
+" ventriculoperitoneal drain tube",Support Devices,Neurosurgical device
+" laminar atelectasis",Atelectasis,Lung collapse
+" pulmonary artery hypertension","No Finding",Pulmonary vascular disease
+"end on vessel","No Finding",Normal vascular visualization
+"COPD signs",Lung Opacity,Chronic lung disease with visible parenchymal changes
+"bone metastasis",Lung Lesion,Secondary cancer
+"aortic elongation",Enlarged Cardiomediastinum,Aortic enlargement
+"cyst",Lung Lesion,Cystic lesion
+"dai","No Finding",Technical term
+" hyperinflated lung",Lung Opacity,Lung hyperinflation with visible parenchymal changes
+"air fluid level","No Finding",Fluid level in cavity
+" nodule",Lung Lesion,Lung mass
+" chest drain tube",Support Devices,Thoracic drainage device
+" pulmonary venous hypertension","No Finding",Pulmonary vascular disease
+"callus rib fracture",Fracture,Healing rib fracture
+"exclude","No Finding",Exclusion note
+" soft tissue mass",Lung Lesion,Soft tissue mass
+"aortic button enlargement",Enlarged Cardiomediastinum,Aortic enlargement
+" air trapping",Lung Opacity,Air retention with visible parenchymal changes
+"normal",No Finding,Normal study
+"pulmonary hypertension","No Finding",Pulmonary vascular disease
+"pulmonary mass",Lung Lesion,Lung mass
+" pneumothorax",Pneumothorax,Air in pleural space
+"major fissure thickening",Pleural Other,Pleural abnormality
+"hypoexpansion",Lung Opacity,Reduced lung expansion with visible changes
+"surgery",Support Devices,Surgical changes
+" tuberculosis sequelae",Lung Lesion,Post-infectious changes
+"air bronchogram",Lung Opacity,Air-filled bronchi pattern
+" metal",Support Devices,Metallic foreign body
+"metal",Support Devices,Metallic foreign body
+" dual chamber device",Support Devices,Cardiac device
+" supra aortic elongation",Enlarged Cardiomediastinum,Aortic enlargement
+" surgery heart",Support Devices,Surgical changes
+"kerley lines","No Finding",Pulmonary vascular congestion
+"vertebral degenerative changes","No Finding",Degenerative changes
+" alveolar pattern",Lung Opacity,Lung parenchymal pattern
+" osteopenia","No Finding",Bone density condition
+" exclude","No Finding",Exclusion note
+" pectum excavatum","No Finding",Chest wall deformity
+"segmental atelectasis",Atelectasis,Lung collapse
+"esophagic dilatation","No Finding",Esophageal dilatation
+"reticulonodular interstitial pattern",Lung Opacity,Lung parenchymal pattern
+"catheter",Support Devices,Medical catheter
+"heart valve calcified","No Finding",Valve calcification
+"hydropneumothorax",Pleural Effusion,Fluid and air in pleura
+"pectum excavatum","No Finding",Chest wall deformity
+" pseudonodule",Lung Lesion,Apparent nodule
+" aortic atheromatosis","No Finding",Aortic disease
+" mastectomy",Support Devices,Surgical changes
+" aortic endoprosthesis",Support Devices,Vascular prosthesis
+"calcified adenopathy",Lung Lesion,Calcified lymph nodes
+"azygoesophageal recess shift",Enlarged Cardiomediastinum,Mediastinal shift
+" hiatal hernia","No Finding",Diaphragmatic hernia
+"calcified mediastinal adenopathy",Lung Lesion,Calcified lymph nodes
+" osteoporosis","No Finding",Bone density condition
+" surgery lung",Support Devices,Surgical changes
+"non axial articular degenerative changes","No Finding",Joint degeneration
+" central vascular redistribution","No Finding",Vascular pattern change
+"pleural thickening",Pleural Other,Pleural abnormality
+"pneumoperitoneo",Pneumothorax,Air in peritoneum
+"lymphangitis carcinomatosa",Lung Lesion,Cancer spread pattern
+"chronic changes","No Finding",Chronic changes
+" calcified granuloma",Lung Lesion,Calcified inflammatory nodule
+" cavitation",Lung Lesion,Lung tissue destruction
+"gastrostomy tube",Support Devices,Feeding device
+" ground glass pattern",Lung Opacity,Lung parenchymal pattern
+"calcified fibroadenoma",Lung Lesion,Calcified breast lesion
+"cervical rib","No Finding",Anatomical variant
+"hypoexpansion basal",Lung Opacity,Reduced lung expansion with visible changes
+"diaphragmatic eventration","No Finding",Diaphragmatic abnormality
+"surgery heart",Support Devices,Surgical changes
+" flattened diaphragm","No Finding",Diaphragmatic flattening
+"central vascular redistribution","No Finding",Vascular pattern change
+" lung metastasis",Lung Lesion,Secondary cancer
+"breast mass",Lung Lesion,Breast mass
+"pectum carinatum","No Finding",Chest wall deformity
+"abnormal foreign body",Support Devices,Foreign object
+"costophrenic angle blunting",Pleural Effusion,Pleural space blunting commonly indicating fluid
+"rib fracture",Fracture,Bone fracture
+" lymphangitis carcinomatosa",Lung Lesion,Cancer spread pattern
+" vascular hilar enlargement",Enlarged Cardiomediastinum,Hilar enlargement
+"pleural plaques",Pleural Other,Pleural abnormality
+" single chamber device",Support Devices,Cardiac device
+"NSG tube",Support Devices,Feeding tube
+" post radiotherapy changes",Support Devices,Post-treatment changes
+"vascular hilar enlargement",Enlarged Cardiomediastinum,Hilar enlargement
+" vascular redistribution","No Finding",Vascular pattern change
+"hiatal hernia","No Finding",Diaphragmatic hernia
+" surgery",Support Devices,Surgical changes
+"bronchiectasis",Lung Opacity,Airway dilatation visible as parenchymal changes
+" hilar congestion",Enlarged Cardiomediastinum,Hilar congestion
+"fibrotic band",Lung Lesion,Fibrotic tissue
+"hyperinflated lung",Lung Opacity,Lung hyperinflation with visible parenchymal changes
+" subacromial space narrowing","No Finding",Joint space narrowing
+" segmental atelectasis",Atelectasis,Lung collapse
+"scoliosis","No Finding",Spinal deformity
+"bronchovascular markings","No Finding",Vascular markings
+" aortic button enlargement",Enlarged Cardiomediastinum,Aortic enlargement
+" hemidiaphragm elevation","No Finding",Diaphragmatic elevation
+" electrical device",Support Devices,Electrical device
+" calcified adenopathy",Lung Lesion,Calcified lymph nodes
+"minor fissure thickening",Pleural Other,Pleural abnormality
+"pacemaker",Support Devices,Cardiac device
+"humeral fracture",Fracture,Bone fracture
+" minor fissure thickening",Pleural Other,Pleural abnormality
+"central venous catheter",Support Devices,Vascular access device
+"hilar enlargement",Enlarged Cardiomediastinum,Hilar enlargement
+"obesity","No Finding",Body habitus
+"hilar congestion",Enlarged Cardiomediastinum,Hilar congestion
+" total atelectasis",Atelectasis,Complete lung collapse
+" suture material",Support Devices,Surgical material
+"dual chamber device",Support Devices,Cardiac device
+" artificial heart valve",Support Devices,Cardiac prosthesis
+"reticular interstitial pattern",Lung Opacity,Lung parenchymal pattern
+" lung vascular paucity","No Finding",Vascular pattern
+"pulmonary artery enlargement",Enlarged Cardiomediastinum,Vascular enlargement
+"emphysema",Lung Opacity,Chronic lung disease with visible parenchymal changes
+"suture material",Support Devices,Surgical material
+" round atelectasis",Atelectasis,Lung collapse
+" callus rib fracture",Fracture,Healing rib fracture
+"atelectasis basal",Atelectasis,Lung collapse
+" normal",No Finding,Normal study
+"endotracheal tube",Support Devices,Airway device
+"apical pleural thickening",Pleural Other,Pleural abnormality
+"pneumonia",Pneumonia,Lung infection
+" calcified pleural thickening",Pleural Other,Pleural abnormality
+"ventriculoperitoneal drain tube",Support Devices,Neurosurgical device
+" bronchovascular markings","No Finding",Vascular markings
+" heart insufficiency","No Finding",Heart failure
+" kyphosis","No Finding",Spinal deformity
+"subcutaneous emphysema",Pneumothorax,Air in soft tissues
+" central venous catheter via umbilical vein",Support Devices,Vascular access device
+" loculated pleural effusion",Pleural Effusion,Pleural fluid collection
+"ascendent aortic elongation",Enlarged Cardiomediastinum,Aortic enlargement
+" fibrotic band",Lung Lesion,Fibrotic tissue
+"sternoclavicular junction hypertrophy","No Finding",Joint hypertrophy
+"lung vascular paucity","No Finding",Vascular pattern
+"kyphosis","No Finding",Spinal deformity
+" increased density",Lung Opacity,Increased density
+"mediastinal mass",Lung Lesion,Mediastinal mass
+" consolidation",Consolidation,Lung consolidation
+" catheter",Support Devices,Medical catheter
+"osteosynthesis material",Support Devices,Orthopedic hardware
+"electrical device",Support Devices,Electrical device
+"lepidic adenocarcinoma",Lung Lesion,Lung cancer
+" bullas",Lung Opacity,Emphysematous changes visible as lung opacities
+" mediastinal mass",Lung Lesion,Mediastinal mass
+"central venous catheter via umbilical vein",Support Devices,Vascular access device
+"infiltrates",Consolidation,Lung inflammation
+"thoracic cage deformation","No Finding",Chest wall deformity
+" lytic bone lesion",Lung Lesion,Bone abnormality
+"superior mediastinal enlargement",Enlarged Cardiomediastinum,Mediastinal enlargement
+" calcified pleural plaques",Pleural Other,Pleural abnormality
+"descendent aortic elongation",Enlarged Cardiomediastinum,Aortic enlargement
+"interstitial pattern",Lung Opacity,Lung parenchymal pattern
+"granuloma",Lung Lesion,Inflammatory nodule
+"heart insufficiency","No Finding",Heart failure
+"axial hyperostosis","No Finding",Bone hypertrophy
+"mediastinal enlargement",Enlarged Cardiomediastinum,Mediastinal enlargement
+" calcified fibroadenoma",Lung Lesion,Calcified breast lesion
+" volume loss",Lung Opacity,Lung volume reduction with visible parenchymal changes
+" mediastinal shift",Enlarged Cardiomediastinum,Mediastinal shift
+" adenopathy",Lung Lesion,Lymph node enlargement
+"pleural mass",Lung Lesion,Pleural mass
+" vertebral fracture",Fracture,Bone fracture
+" atypical pneumonia",Pneumonia,Lung infection
+"loculated pleural effusion",Pleural Effusion,Pleural fluid collection
+"Chilaiditi sign","No Finding",Anatomical variant
+"increased density",Lung Opacity,Increased density
+" asbestosis signs",Lung Opacity,Occupational lung disease with parenchymal changes
+"pulmonary venous hypertension","No Finding",Pulmonary vascular disease
+" chronic changes","No Finding",Chronic changes
+"surgery breast",Support Devices,Surgical changes
+"post radiotherapy changes",Support Devices,Post-treatment changes
+" bronchiectasis",Lung Opacity,Airway dilatation visible as parenchymal changes
+" non axial articular degenerative changes","No Finding",Joint degeneration
+" bone metastasis",Lung Lesion,Secondary cancer
+" hypoexpansion",Lung Opacity,Reduced lung expansion with visible changes
+"nipple shadow","No Finding",Normal anatomical shadow
+"endoprosthesis",Support Devices,Medical prosthesis
+" aortic elongation",Enlarged Cardiomediastinum,Aortic enlargement
+"soft tissue mass",Lung Lesion,Soft tissue mass
+" pericardial effusion",Pleural Effusion,Fluid around heart
+"bone cement",Support Devices,Orthopedic material
+"asbestosis signs",Lung Opacity,Occupational lung disease with parenchymal changes
+" reticular interstitial pattern",Lung Opacity,Lung parenchymal pattern
+"azygos lobe","No Finding",Anatomical variant
+"mammary prosthesis",Support Devices,Breast prosthesis
+" mediastinal enlargement",Enlarged Cardiomediastinum,Mediastinal enlargement
+" ascendent aortic elongation",Enlarged Cardiomediastinum,Aortic enlargement
+" multiple nodules",Lung Lesion,Multiple lung masses
+" pleural effusion",Pleural Effusion,Pleural fluid
+"tracheostomy tube",Support Devices,Airway device
+"atelectasis",Atelectasis,Lung collapse
+"gynecomastia","No Finding",Breast tissue enlargement
+"tuberculosis",Lung Lesion,Infectious disease
+" calcified densities",Lung Lesion,Calcified structures
+"surgery neck",Support Devices,Surgical changes
+"fissure thickening",Pleural Other,Pleural abnormality
+" osteosynthesis material",Support Devices,Orthopedic hardware
+"adenopathy",Lung Lesion,Lymph node enlargement
+" emphysema",Lung Opacity,Chronic lung disease with visible parenchymal changes
+"costochondral junction hypertrophy","No Finding",Joint hypertrophy
+" atelectasis",Atelectasis,Lung collapse
+"right sided aortic arch","No Finding",Anatomical variant
+"unchanged","No Finding",Comparison finding - not a pathological entity
+"scoliosis","No Finding",Spinal deformity - not chest pathology
+"chronic changes","No Finding",Temporal descriptor - not specific pathology
+"kyphosis","No Finding",Spinal deformity - not chest pathology
+"vertebral degenerative changes","No Finding",Degenerative spine changes - not chest pathology
+"aortic atheromatosis",Enlarged Cardiomediastinum,Aortic calcification causing mediastinal prominence
+"hiatal hernia",Lung Opacity,Herniated stomach creates visible density behind heart
+"hemidiaphragm elevation",Lung Opacity,Elevated diaphragm causes visible lung compression/density changes
+"heart insufficiency",Enlarged Cardiomediastinum,Heart failure causes cardiac enlargement
+"suboptimal study","No Finding",Technical quality issue - not pathological finding
+"exclude","No Finding",Exclusion note - not pathological finding
+"bronchovascular markings",Lung Opacity,Visible vascular pattern changes in lung parenchyma
+"nipple shadow","No Finding",Normal anatomical shadow - not pathological
+"diaphragmatic eventration",Lung Opacity,Abnormal diaphragm position affects lung density
+"goiter","No Finding",Thyroid enlargement - not chest pathology
+" heart insufficiency",Enlarged Cardiomediastinum,Heart failure causes cardiac enlargement
+"gynecomastia","No Finding",Breast tissue enlargement - not chest pathology
+" vertebral degenerative changes","No Finding",Degenerative spine changes - not chest pathology
+" tracheal shift",Enlarged Cardiomediastinum,Tracheal displacement indicates mediastinal mass effect
+" flattened diaphragm",Lung Opacity,COPD-related flattening with visible parenchymal changes
+"osteopenia","No Finding",Bone density condition - not chest pathology
+"azygos lobe","No Finding",Anatomical variant - not pathological
+" scoliosis","No Finding",Spinal deformity - not chest pathology
+"mediastinic lipomatosis","No Finding",Fatty tissue in mediastinum - benign variant
+" suboptimal study","No Finding",Technical quality issue - not pathological finding
+" chronic changes","No Finding",Temporal descriptor - not specific pathology
+"flattened diaphragm",Lung Opacity,COPD-related flattening with visible parenchymal changes
+"tracheal shift",Enlarged Cardiomediastinum,Tracheal displacement indicates mediastinal mass effect
+"non axial articular degenerative changes","No Finding",Joint degeneration - not chest pathology
+"axial hyperostosis","No Finding",Bone hypertrophy - not chest pathology
+"pectum excavatum","No Finding",Chest wall deformity - not lung pathology
+" vascular redistribution",Enlarged Cardiomediastinum,Pulmonary vascular pattern indicating cardiac issues
+"dai","No Finding",Technical term - unclear pathological significance
+"vascular redistribution",Enlarged Cardiomediastinum,Pulmonary vascular pattern indicating cardiac issues
+"end on vessel","No Finding",Normal vascular visualization - not pathological
+" hemidiaphragm elevation",Lung Opacity,Elevated diaphragm causes visible lung compression
+"thoracic cage deformation","No Finding",Chest wall deformity - not lung pathology
+" hiatal hernia",Lung Opacity,Herniated stomach creates visible density behind heart
+"central vascular redistribution",Enlarged Cardiomediastinum,Centralized vascular pattern indicating cardiac issues
+"air fluid level",Lung Lesion,Cavity with fluid level indicates lung pathology
+"costochondral junction hypertrophy","No Finding",Joint hypertrophy - not chest pathology
+"heart valve calcified",Support Devices,Calcified valves as structural changes
+" lung vascular paucity",Lung Opacity,Reduced vascular markings visible as parenchymal change
+" unchanged","No Finding",Comparison finding - not pathological entity
+"osteoporosis","No Finding",Bone density condition - not chest pathology
+"cervical rib","No Finding",Anatomical variant - not pathological
+"pulmonary hypertension",Enlarged Cardiomediastinum,Enlarged pulmonary vessels
+" osteoporosis","No Finding",Bone density condition - not chest pathology
+" bronchovascular markings",Lung Opacity,Visible vascular pattern changes in lung parenchyma
+" mediastinic lipomatosis","No Finding",Fatty tissue in mediastinum - benign variant
+" kerley lines",Edema,Interstitial edema lines
+"respiratory distress","No Finding",Clinical symptom - not radiological finding
+" kyphosis","No Finding",Spinal deformity - not chest pathology
+"kerley lines",Edema,Interstitial edema lines
+"obesity","No Finding",Body habitus - not chest pathology
+"pectum carinatum","No Finding",Chest wall deformity - not lung pathology
+"subacromial space narrowing","No Finding",Joint condition - not chest pathology
+" osteopenia","No Finding",Bone density condition - not chest pathology
+" thoracic cage deformation","No Finding",Chest wall deformity - not lung pathology
+" pulmonary artery hypertension",Enlarged Cardiomediastinum,Enlarged pulmonary arteries
+" exclude","No Finding",Exclusion note - not pathological finding
+"right sided aortic arch","No Finding",Anatomical variant - not pathological
+" pulmonary hypertension",Enlarged Cardiomediastinum,Enlarged pulmonary vessels
+" respiratory distress","No Finding",Clinical symptom - not radiological finding
+" nipple shadow","No Finding",Normal anatomical shadow - not pathological
+"dextrocardia","No Finding",Cardiac anatomical variant - not pathological
+"lung vascular paucity",Lung Opacity,Reduced vascular markings visible as parenchymal change
+"Chilaiditi sign","No Finding",Anatomical variant - not pathological
+" heart valve calcified",Support Devices,Calcified valves as structural changes
+" goiter","No Finding",Thyroid enlargement - not chest pathology
+"pulmonary artery hypertension",Enlarged Cardiomediastinum,Enlarged pulmonary arteries
+"sternoclavicular junction hypertrophy","No Finding",Joint hypertrophy - not chest pathology
+" pectum excavatum","No Finding",Chest wall deformity - not lung pathology
+" central vascular redistribution",Enlarged Cardiomediastinum,Centralized vascular pattern indicating cardiac issues
+"pulmonary venous hypertension",Enlarged Cardiomediastinum,Enlarged pulmonary veins
+" diaphragmatic eventration",Lung Opacity,Abnormal diaphragm position affects lung density
+" subacromial space narrowing","No Finding",Joint condition - not chest pathology
+" pulmonary venous hypertension",Enlarged Cardiomediastinum,Enlarged pulmonary veins
+"esophagic dilatation","No Finding",Esophageal condition - not chest pathology
+" end on vessel","No Finding",Normal vascular visualization - not pathological
+" non axial articular degenerative changes","No Finding",Joint degeneration - not chest pathology
+" aortic atheromatosis",Enlarged Cardiomediastinum,Aortic calcification causing mediastinal prominence
+"lipomatosis","No Finding",Fatty tissue accumulation - benign condition

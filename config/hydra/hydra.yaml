@@ -1,0 +1,8 @@
+job:
+  chdir: true # Ensures the script runs in the correct working directory
+  name: "main_mm_mae"
+sweep:
+  dir: ${log.dir_logs}/${hydra.job.name}
+  subdir: ${oc.select:hydra.job.num,0}
+run:
+  dir: ${log.dir_logs}/${hydra.job.name}

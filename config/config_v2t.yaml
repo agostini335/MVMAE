@@ -1,0 +1,26 @@
+defaults:
+  - config_base
+  - tokenizermodule: bert_tokenizer_module
+  - vision_to_text_decoder: vtt_decoder
+  - vision_to_text_decoder_module: cappa_decoder
+  - _self_
+
+model:
+  compute_rec: False
+ 
+tokenizermodule:
+  max_len: 300
+  mlm_probability: 1.
+
+vision_modality:
+  decode:
+    - self
+    - impression
+
+vision_to_text_decoder:
+  text_field: "impression"
+  loss_weighting_factor: 1.0
+
+vision_to_text_decoder_module:
+  mlp_ratio: 1
+  n_dec_layers: 4

@@ -1,0 +1,90 @@
+defaults:
+  - base_config
+  - log: log
+  - model: mae_mmvm
+  - modelmodule: mae_mmvm_module
+  - encodermodule: vit_base_encoder_module
+  - decodermodule: vit_base_decoder_module
+  - training: training_mae
+  - dataset: Mimic_cxr
+  - datamodule_train: CXRTrainDataModule
+  - datamodule_eval: CXREvalDataModule
+  - datamodule_test: CXRTestDataModule
+  - annealingmodule: sigmoidmodule
+  - transformmodule_train: transformmodule_mimic_train # transformmodule_biomedclip_mimic_train, transformmodule_mimic_train, transformmodule_stanfordvit_mimic_train
+  - transformmodule_eval: transformmodule_mimic_eval # transformmodule_biomedclip_mimic_eval, transformmodule_mimic_eval, transformmodule_stanfordvit_mimic_eval
+  - eval: MimicEval
+  - evalmodule: MimicMAEEvalModule
+  - offline_eval: MimicOfflineEval
+  - offline_evalmodule: mimic_ensemble_clf # mimic_biomedclip_ensemble_clf, mimic_stanfordvit_ensemble_clf, mimic_ensemble_clf,
+  - vision_modality: cxr_vision_mod_flu # remove u if you want to run all_combi_no_missing, i.e. cxr_vision_mod_fl
+  - hydra: hydra
+  - override hydra/launcher: submitit_local
+  - _self_
+
+
+offline_eval:
+  do_offline_eval: False
+  checkpoint_init: True
+  freeze_encoder: False
+  
+
+offline_evalmodule:
+  oe_n_epochs: 2
+  oe_learning_rate: 1e-4
+
+eval:
+  logging_frequency_lr: 1
+  logging_frequency_plots: 1
+  validation_every_n_epochs: 1
+
+training:
+  resume_run_id: null
+  batch_size: 64
+  base_lr: 0.00012
+  num_gpus: 1
+  num_nodes: 1
+  n_epochs: 2
+  n_epochs_warmup: 5
+  gradient_clipping: 1.0
+  weight_decay: 0.05
+  do_pretraining: True
+  
+datamodule_train:
+  selected_datasets:
+    - "mimic-cxr"
+    - "chexpertplus"
+    - "padchest"
+    - "chest-xray"
+
+log:
+  wandb_entity: "wandb_entity_name"
+  wandb_local_instance: False
+  wandb_offline: False
+  wandb_group: "wandb_group_name"
+  wandb_project_name: "wandb_project_name"
+  dir_logs: "dir_to_wandb_logs"
+
+dataset:
+  reduced_dataset: True
+  img_size: 224
+  num_train_sample: 1000
+  studies_policy: "FLU"
+  num_workers: 20
+
+model:
+  patch_size: 16
+  regularization_metric: "mse"
+  use_latent_heads: False
+  mask_ratio: 0.93
+  temperature: 0.5
+  regularization_tokens: "all"
+  pairwise_regularization: False
+
+annealing:
+  final_beta: 2.0
+  init_beta: 0.0
+
+vision_modality:
+  decode:
+    - self
